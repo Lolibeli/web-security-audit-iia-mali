@@ -150,3 +150,42 @@ technique et de formulation de recommandations.
 ---
 
 **Projet de portfolio — Cybersécurité**
+
+---
+
+## 📸 Preuves techniques — Captures d'écran
+
+Cette section présente les principales vérifications réalisées
+dans le cadre de l'audit de sécurité web IIA Mali.
+
+### 1. Vérification du Clickjacking
+
+![Test Clickjacking](screenshots/01-clickjacking-iframe.png)
+
+### 2. Analyse de la réinitialisation du mot de passe
+
+![Réinitialisation du mot de passe](screenshots/02-reinitialisation-mot-de-passe.png)
+
+### 3. Analyse des en-têtes de sécurité HTTP
+
+![En-têtes HTTP](screenshots/03-en-tetes-securite-http.png)
+
+### 4. Vérification de la politique CORS
+
+![Test CORS](screenshots/04-test-cors.png)
+
+### 5. Vérification de la réflexion des entrées utilisateur
+
+![Test de réflexion](screenshots/05-reflexion-entree-recherche.png)
+
+### 6. Analyse de l'API des actualités
+
+![API Actualités](screenshots/06-api-actualites.png)
+
+### 7. Analyse de la structure des réponses API
+
+![Structure API](screenshots/07-structure-reponse-api.png)
+
+---
+
+**Audit réalisé par : Matine Lolita GNAMKOULAMBA**
