@@ -20,6 +20,25 @@ et de proposer des recommandations adaptées.
 L'audit repose sur une démarche méthodologique inspirée
 des bonnes pratiques OWASP.
 
+---
+
+## 📄 Rapport complet d'audit
+
+Le rapport présente la méthodologie utilisée, les tests
+effectués, les observations techniques et les recommandations
+de sécurité.
+
+📥 **[Consulter le rapport complet d'audit de sécurité](Rapport_Audit_IIA_Mali.pdf)**
+
+**Auditrice :** Matine Lolita GNAMKOULAMBA
+
+**Outils utilisés :** Kali Linux, Firefox Developer Tools,
+cURL et Python.
+
+**Référentiel méthodologique :** OWASP.
+
+---
+
 ## 🎯 2. Objectifs de l'audit
 
 - Examiner les mécanismes d'authentification.
